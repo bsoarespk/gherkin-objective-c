@@ -14,5 +14,6 @@
 @synthesize then;
 @synthesize and;
 @synthesize but;
+@synthesize rule;
 
 @end
